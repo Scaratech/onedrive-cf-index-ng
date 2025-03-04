@@ -6,12 +6,12 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-        <meta property="og:type" content="website">
-        <meta property="og:url" content="https://dl.korone.cloud">
-        <meta property="og:title" content="ChromeOS Mirror">
-        <meta property="og:description" content="Scaratek's ChromeOS Download Mirror">
-        <meta property="og:image" content="https://dl.korone.cloud/icons/128.png">
-        <meta name="theme-color" content="#f9e2af">
+          <meta property="og:type" content="website" />
+          <meta property="og:url" content="https://dl.korone.cloud" />
+          <meta property="og:title" content="ChromeOS Mirror" />
+          <meta property="og:description" content="Scaratek's ChromeOS Download Mirror" />
+          <meta property="og:image" content="https://dl.korone.cloud/icons/128.png" />
+          <meta name="theme-color" content="#f9e2af" />
           <link rel="icon" href="/favicon.ico" />
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
